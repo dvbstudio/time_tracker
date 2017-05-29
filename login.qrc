@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Sigin.qml</file>
+        <file>SiginForm.ui.qml</file>
+        <file>systemTray/SystemTrayControl.qml</file>
+        <file>icons/to_tray.png</file>
+        <file>icons/close.png</file>
+        <file>icons/time-left.png</file>
+    </qresource>
+</RCC>
